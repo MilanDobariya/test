@@ -4,7 +4,7 @@ public class test {
 
 	public static void main(String[] args) {
 		System.out.println("in method commit 2");
-		//first change dev
+		//first change dev2
 		System.out.println("in method commit 3 with dev branch");
 	}
 }
